@@ -1,0 +1,18 @@
+body {
+
+    font-weight: bold;
+    font-family: Calibri;
+
+}
+
+#shape {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(66, 175, 84);
+    position: relative;
+   
+}
+
+#shape:hover {
+    cursor: pointer;
+}
